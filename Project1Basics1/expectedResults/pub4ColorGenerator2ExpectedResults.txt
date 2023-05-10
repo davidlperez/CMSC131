@@ -1,0 +1,1 @@
+Do you want red? (Yes/Yeah/No): Do you want green and blue? (Yes/Yeah/No): Final Color: #00FFFF

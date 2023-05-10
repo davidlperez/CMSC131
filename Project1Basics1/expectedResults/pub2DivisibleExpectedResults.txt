@@ -1,0 +1,2 @@
+Enter x: Enter y: Remainder: 5
+11 is NOT divisible by 6

@@ -1,0 +1,40 @@
+How many times to throw a die?: Enter seed: Throw #1
+0..
+.0.
+..0
+Throw #2
+0..
+.0.
+..0
+Throw #3
+...
+.0.
+...
+Throw #4
+0..
+...
+..0
+Throw #5
+...
+.0.
+...
+Throw #6
+...
+.0.
+...
+Throw #7
+0.0
+...
+0.0
+Throw #8
+0.0
+.0.
+0.0
+Throw #9
+0..
+...
+..0
+Throw #10
+0..
+...
+..0
